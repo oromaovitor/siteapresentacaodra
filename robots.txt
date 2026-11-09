@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://siteapresentacaodra.vercel.app/sitemap.xml
